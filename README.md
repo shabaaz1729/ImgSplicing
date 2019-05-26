@@ -7,7 +7,7 @@ In this project we have used deep learning techniques to classify spliced images
 
 We have extracted HOG features and GLCM Texture Features and generated a feature vector of 23 values.
 
-## Following are the classifiers we used :
+## Classifiers :
 
 1.Perceptron
 
