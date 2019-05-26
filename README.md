@@ -3,11 +3,11 @@ Image Splicing Detection
 
 In this project we have used deep learning techniques to classify spliced images. 
 
-# Feature Extraction :
+## Feature Extraction :
 
 We have extracted HOG features and GLCM Texture Features and generated a feature vector of 23 values.
 
-# Following are the classifiers we used :
+## Following are the classifiers we used :
 
 1.Perceptron
 
@@ -15,7 +15,7 @@ We have extracted HOG features and GLCM Texture Features and generated a feature
 
 3.Feed Forward Neural Network
 
-# Dataset
+## Dataset
 
 We have trained and tested our model using the images from DVMM, Columbia University.
 The dataset consists of 933 authentic and 912 spliced images.
