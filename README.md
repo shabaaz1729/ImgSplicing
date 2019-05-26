@@ -9,5 +9,6 @@ Following are the classifiers we used:
 
 We have trained and tested our model using the images from DVMM, Columbia University.
 The dataset consists of 933 authentic and 912 spliced images.
+
 link - http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm
 
