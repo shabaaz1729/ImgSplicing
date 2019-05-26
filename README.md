@@ -3,8 +3,11 @@ Image Splicing Detection
 In this project we have used deep learning techniques to classify spliced images. 
 
 Following are the classifiers we used:
+
 1.Perceptron
+
 2.Sigmoid Neuron
+
 3.Feed Forward Neural Network
 
 We have trained and tested our model using the images from DVMM, Columbia University.
